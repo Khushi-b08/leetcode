@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Khushi-b08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Khushi-b08/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Khushi-b08/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushi-b08/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Khushi-b08/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
