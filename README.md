@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Khushi-b08/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Khushi-b08/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Khushi-b08/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushi-b08/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khushi-b08/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Khushi-b08/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Khushi-b08/leetcode/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Khushi-b08/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
