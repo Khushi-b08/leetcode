@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Khushi-b08/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Khushi-b08/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Khushi-b08/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Khushi-b08/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Khushi-b08/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Khushi-b08/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Khushi-b08/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
